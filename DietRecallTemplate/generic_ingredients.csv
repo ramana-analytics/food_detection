@@ -1,0 +1,339 @@
+id,name,category,food groups
+301,Almond Milk,Dairy Alternatives,dairy
+2,Biscuit,Grains,grains
+308,Eggplant,Asian Vegetables,non starchy vegetables
+5,"Bread, Gluten Free",Bread,grains
+6,Chapati,Bread-Flat-type,grains
+4,"Bread, Reduced-Calorie",Bread,grains
+22,Oatmeal,Breakfast Grains,grains
+31,Cream of Wheat,Gluten Containing Grains,grains
+35,Wild Rice,Gluten Free Grains,grains
+36,Breadfruit,Starchy Fruit,starchy vegetables
+37,Cassava,Root Vegetables,starchy vegetables
+34,Rice,Gluten Free Grains,grains
+29,Barley,Gluten Containing Grains,grains
+33,Pasta,Grains,grains
+1,Bagel,Bread,grains
+3,Bread,Bread,grains
+7,Naan,Bread-Flat-type,grains
+8,Pita Bread,Bread-Flat-type,grains
+9,Roti,Bread-Flat-type,grains
+10,Taco Shell,Bread-Flat-type,grains
+11,"Tortilla, Corn",Bread-Flat-type,grains
+12,"Tortilla, Flour",Bread-Flat-type,grains
+13,Cornbread,Bread,grains
+14,English Muffin,Breakfast Grains,grains
+15,Hot Dog Bun or Hamburger Bun,Bread,grains
+16,Pancake,Breakfast Grains,grains
+17,Bread Dinner Roll,Bread,grains
+20,Bran Cereal,Cold Cereals,grains
+18,Bread Stuffing,Bread,grains
+21,Oats,Grains,grains
+23,Granola,Grains,grains
+24,Grits,Grains,grains
+25,Puffed Cereal,Cold Cereals,grains
+26,Shredded Wheat Cereal,Cold Cereals,grains
+27,Sugar-coated Cereal,Cold Cereals,grains
+28,"Unsweetened, Ready-to-eat Cereal",Cold Cereals,grains
+30,Dry Oat Bran,Breakfast Grains,grains
+32,Bulgur,Gluten Containing Grains,grains
+38,Whole Kernel Corn,Everyday Starchy Vegetables,starchy vegetables
+39,Hominy,Everyday Starchy Vegetables,starchy vegetables
+302,Artichoke,Seasonal,non starchy vegetables
+41,"Marinara, Pasta, Or Spaghetti Sauce",Everyday Starchy Vegetables,starchy vegetables
+42,Green Peas,"Beans, Peas, and Lentils",starchy vegetables
+309,Fennel,Root Vegetables,non starchy vegetables
+43,Plantain,Starchy Fruit,starchy vegetables
+63,Beans,"Beans, Peas, and Lentils",starchy vegetables#proteins
+66,Refried Beans,"Beans, Peas, and Lentils",starchy vegetables#proteins
+64,Lentils,"Beans, Peas, and Lentils",starchy vegetables#proteins
+65,Peas,"Beans, Peas, and Lentils",starchy vegetables#proteins
+68,Applesauce,Everyday Fruits,fruits
+67,Apple,Everyday Fruits,fruits
+70,Canned Apricots,Everyday Fruits,fruits
+72,Asian Pear,Everyday Fruits,fruits
+73,Banana,Tropical/Exotic,fruits
+75,Blueberries,Everyday Fruits,fruits
+74,Blackberries,Everyday Fruits,fruits
+76,Cantaloupe,Melons,fruits
+46,French Fries,Root Vegetables,starchy vegetables
+49,Animal Crackers,Crackers and Snacks,grains
+50,Crispbread,Crackers and Snacks,grains
+51,Graham Crackers,Crackers and Snacks,grains
+52,Oyster Crackers,Crackers and Snacks,grains
+57,Popcorn,Crackers and Snacks,grains
+58,Pretzels,Crackers and Snacks,grains
+59,Rice Cakes,Crackers and Snacks,grains
+40,Mixed Vegetables With Corn/Peas,"Beans, Peas, and Lentils",starchy vegetables
+45,Mashed Potatoes,Root Vegetables,starchy vegetables
+47,Pumpkin Puree,Root Vegetables,starchy vegetables
+48,Yam/Sweet Potato,Root Vegetables,starchy vegetables
+53,Saltine Crackers,Crackers and Snacks,grains
+55,Whole-Wheat Crackers,Crackers and Snacks,grains
+56,Granola or Snack Bar,Crackers and Snacks,grains
+60,Baked Chips,Crackers and Snacks,grains
+61,Snack Chips,Crackers and Snacks,grains
+71,Dried Apricots,Everyday Fruits,fruits
+69,Apricots,Everyday Fruits,fruits
+77,Canned Cherries,Everyday Fruits,fruits
+303,Beets,Root Vegetables,non starchy vegetables
+80,Dates,Dry Fruits,fruits
+81,Dried Cranberries,Dry Fruits,fruits
+82,"Figs, Dried",Dry Fruits,fruits
+84,Fruit Cocktail,Everyday Fruits,fruits
+87,Grapes,Everyday Fruits,fruits
+88,Guava,Tropical/Exotic,fruits
+89,Honeydew Melon,Melons,fruits
+90,Kiwi,Tropical/Exotic,fruits
+91,Kumquat,Citrus,fruits
+92,"Mandarin Oranges, Canned",Citrus,fruits
+93,Mango,Tropical/Exotic,fruits
+94,Nectarine,Everyday Fruits,fruits
+95,Orange,Citrus,fruits
+96,Papaya,Tropical/Exotic,fruits
+97,Passion Fruit,Tropical/Exotic,fruits
+100,"Pears, Canned",Everyday Fruits,fruits
+104,"Plantain, Raw",Tropical/Exotic,fruits
+105,"Plums, Dried",Dry Fruits,fruits
+107,Pomegranate Seeds,Tropical/Exotic,fruits
+109,Strawberries,Everyday Fruits,fruits
+108,Raspberries,Everyday Fruits,fruits
+110,Tangerine,Citrus,fruits
+111,Watermelon,Melons,fruits
+112,Apple Juice,Everyday Fruits,fruits
+113,Fruit Juice Blends,Everyday Fruits,fruits
+114,Grape Juice,Everyday Fruits,fruits
+115,Grapefruit Juice,Citrus,fruits
+116,Orange Juice,Citrus,fruits
+117,Pineapple Juice,Tropical/Exotic,fruits
+78,Cherries,Everyday Fruits,fruits
+79,Clementines,Citrus,fruits
+83,Fresh Figs,Dry Fruits,fruits
+85,Grapefruit,Citrus,fruits
+86,"Grapefruit, Canned",Citrus,fruits
+98,Canned Peaches,Everyday Fruits,fruits
+99,Peaches,Everyday Fruits,fruits
+102,Canned Pineapple,Tropical/Exotic,fruits
+103,Pineapple,Tropical/Exotic,fruits
+106,Plums,Everyday Fruits,fruits
+118,Pomegranate Juice,Tropical/Exotic,fruits
+119,Prune Juice,Everyday Fruits,fruits
+120,Asparagus,Seasonal,non starchy vegetables
+121,Bean Sprouts,Asian Vegetables,non starchy vegetables
+310,Bitter Melon,Asian Vegetables,non starchy vegetables
+122,Broccoli,Asian Vegetables,non starchy vegetables
+123,Brussels Sprouts,Everyday Vegetables,non starchy vegetables
+124,Carrots,Root Vegetables,non starchy vegetables
+125,Cauliflower,Everyday Vegetables,non starchy vegetables
+126,Cucumber,Everyday Vegetables,non starchy vegetables
+127,Green Beans,Everyday Vegetables,non starchy vegetables
+128,Scallions,Everyday Vegetables,non starchy vegetables
+129,Chives,Everyday Vegetables,non starchy vegetables
+130,Mustard Greens,Leafy Greens,non starchy vegetables
+131,Hearts Of Palm,Everyday Vegetables,non starchy vegetables
+132,Kale,Leafy Greens,non starchy vegetables
+133,Kimchi,Asian Vegetables,non starchy vegetables
+134,Mushrooms,Everyday Vegetables,non starchy vegetables
+135,Okra,Asian Vegetables,non starchy vegetables
+136,Onions,Root Vegetables,non starchy vegetables
+138,Peppers,Everyday Vegetables,non starchy vegetables
+139,Arugula,Leafy Greens,non starchy vegetables
+140,Lettuce,Leafy Greens,non starchy vegetables
+141,Radicchio,Leafy Greens,non starchy vegetables
+142,Romaine,Leafy Greens,non starchy vegetables
+143,Watercress,Leafy Greens,non starchy vegetables
+156,Egg Substitute,Eggs,proteins
+145,Seaweed,Leafy Greens,non starchy vegetables
+146,Spinach,Leafy Greens,non starchy vegetables
+147,Snap Peas,Seasonal,non starchy vegetables
+153,Pickles,Everyday Vegetables,non starchy vegetables
+149,Tomato Juice,Everyday Vegetables,non starchy vegetables
+150,Vegetable Juice,Everyday Vegetables,non starchy vegetables
+151,Zucchini,Everyday Vegetables,non starchy vegetables
+155,Cod,Fish,proteins
+148,Tomato Sauce,Everyday Vegetables,non starchy vegetables
+154,Beef,Red Meat,proteins
+162,Pork Loin/Chop,Red Meat,proteins
+163,Turkey,Poultry,proteins
+175,Brazil Nuts,Nuts,fat / oils
+177,Pecans,Nuts,fat / oils
+178,"English, Walnuts",Nuts,fat / oils
+179,Flaxseed Oil,Oil,fat / oils
+184,Meatless Burger,Soy,proteins
+304,Bok Choy/Chinese Cabbage,Asian Vegetables,non starchy vegetables
+186,"Bacon, Regular",Red Meat,proteins
+187,"Bacon, Turkey",Poultry,fat / oils
+188,Beef Hot Dog,Red Meat,proteins
+192,Whey Protein Powder,Protein Powder,proteins
+193,Soy Protein Powder,Soy,proteins
+194,Meatless Hot Dog,Soy,proteins
+181,Coconut Milk,Dairy Alternatives,fat / oils
+183,Avocado,Tropical/Exotic,fat / oils#fruits
+176,Hazelnuts or Filberts,Nuts,fat / oils
+158,Tuna,Fish,proteins
+160,Lamb Roast,Red Meat,proteins
+159,Hot Dog,Red Meat,proteins
+164,Lobster,Shellfish,proteins
+165,Scallops,Shellfish,proteins
+166,Shrimp,Shellfish,proteins
+167,Veal Loin Chop,Red Meat,proteins
+168,Veal Roast,Red Meat,proteins
+170,Ground Beef,Red Meat,proteins
+169,"Beef, lean cut",Red Meat,proteins
+157,Egg Whites,Eggs,proteins
+180,Ground Flaxseed,Seeds,fat / oils
+190,Refried Bean,"Beans, Peas, and Lentils",proteins#starchy vegetables
+182,Lentil,"Beans, Peas, and Lentils",proteins#starchy vegetables
+191,Pea,"Beans, Peas, and Lentils",proteins#starchy vegetables
+171,Ground Lamb,Red Meat,proteins
+172,Pork Cutlet,Red Meat,proteins
+173,Pork Shoulder Roast,Red Meat,proteins
+189,Tofu,Soy,proteins
+203,"Yogurt, Fat-Free/Low-Fat",Milk,dairy
+205,"Greek Yogurt, Fat-free/Low-fat",Milk,dairy
+197,Millet,Gluten Free Grains,grains
+198,Quinoa,Gluten Free Grains,grains
+206,"Chocolate Milk, Fat-Free/Low-Fat",Milk,dairy
+213,Whole Chocolate Milk,Milk,dairy
+214,Eggnog,Milk,dairy
+215,Rice Milk,Dairy Alternatives,dairy
+216,Soy Milk Light,Dairy Alternatives,dairy
+207,"Milk, 2%",Milk,dairy
+208,Milk. Whole,Milk,dairy
+209,"Buttermilk, Whole",Milk,dairy
+210,Goats Milk. Whole,Milk,dairy
+211,"Evaporated Milk, Whole",Milk,dairy
+217,Soy Milk,Dairy Alternatives,dairy
+305,Cabbage,Leafy Greens,non starchy vegetables
+218,Nondairy Yogurt,Dairy Alternatives,dairy
+311,Collard Greens,Leafy Greens,non starchy vegetables
+195,Couscous,Gluten Containing Grains,grains
+44,Baked Potato,Root Vegetables,starchy vegetables
+199,Shredded Coconut,Tropical/Exotic,fruits
+200,"Milk, Fat-Free/Low-Fat",Milk,dairy
+201,"Buttermilk, Fat-Free/Low-Fat",Milk,dairy
+202,"Evaporated Milk, Fat-Free/Low-Fat",Milk,dairy
+204,"Yogurt, Nonfat",Milk,dairy
+212,Whole Yogurt,Milk,dairy
+227,Feta Cheese,Milk,proteins
+231,American Cheese,Milk,proteins
+232,Blue Cheese,Milk,proteins
+228,Mozzarella Cheese,Milk,proteins
+229,Reduced-Fat Cheese,Milk,proteins
+230,Ricotta Cheese,Milk,proteins
+220,Beef Jerky,Red Meat,proteins
+223,Ham Deli Meat,Red Meat,proteins
+221,Cottage Cheese,Milk,proteins#dairy
+222,Roast Beef Deli Meat,Red Meat,proteins
+224,Turkey Deli Meat,Poultry,proteins
+225,Beef Bologna,Red Meat,proteins
+226,Salami,Red Meat,proteins
+238,"Protein, Quinoa",Gluten Free Grains,proteins
+239,"Protein, Almond Butter",Nuts,proteins
+240,"Protein, Cashew Butter",Nuts,proteins
+241,"Protein, Peanut Butter",Nuts,proteins
+242,"Bacon, Cooked",Red Meat,proteins
+243,Chicken Hot Dog,Poultry,proteins
+306,Celery,Everyday Vegetables,non starchy vegetables
+268,Cream Cheese,Dairy,fat / oils
+144,Sauerkraut,Leafy Greens,non starchy vegetables
+245,Almond Butter,Nuts,fat / oils
+246,Cashew Butter,Nuts,fat / oils
+248,Cashews,Nuts,fat / oils
+249,Macadamia Nuts,Nuts,fat / oils
+250,Peanuts,Nuts,fat / oils
+251,Pistachios,Nuts,fat / oils
+252,"Oil, Canola",Oil,fat / oils
+253,"Oil, Olive",Oil,fat / oils
+254,"Oil, Peanut",Oil,fat / oils
+255,Black Olives,Everyday Fruits,fat / oils
+256,Green Olives,Everyday Fruits,fat / oils
+257,Pine Nuts,Nuts,fat / oils
+258,"Oil, Corn",Oil,fat / oils
+259,"Oil, Safflower",Oil,fat / oils
+260,"Oil, Soybean",Oil,fat / oils
+261,"Oil, Sunflower",Oil,fat / oils
+262,"Regular, Salad Dressing",Oil,fat / oils
+270,Whipped Cream,Dairy,fat / oils
+271,Light Cream,Dairy,fat / oils
+272,Heavy Cream,Dairy,fat / oils
+269,Reduced Fat Cream Cheese,Dairy,fat / oils
+247,Peanut Butter,Nuts,fat / oils#proteins
+264,Sesame Seeds,Seeds,fat / oils
+233,Brie,Milk,proteins
+234,Monterey Jack,Milk,proteins
+235,Parmesan Cheese,Milk,proteins
+236,Swiss Cheese,Milk,proteins
+263,Pumpkin Seeds,Seeds,fat / oils
+265,Sunflower Seeds,Seeds,fat / oils
+266,Tahini,Seeds,fat / oils
+237,Edamame,"Beans, Peas, and Lentils",proteins#starchy vegetables
+275,"Fats/Oils, Coconut, Sweetened, Shredded",Tropical/Exotic,fat / oils
+276,"Chitterlings, Boiled",Red Meat,fat / oils
+277,Stick Butter,Dairy,fat / oils
+278,Reduced-Fat Butter,Dairy,fat / oils
+279,Reduced-Fat Mayonnaise-Style Salad Dressing,Oil,fat / oils
+280,Regular Mayonnaise-Style Salad Dressing,Oil,fat / oils
+281,Reduced-Fat Mayonnaise,Oil,fat / oils
+282,Regular Mayonnaise,Oil,fat / oils
+283,"Stick, Tub Margarine",Oil,fat / oils
+284,Lower-Fat Spread Margarine,Oil,fat / oils
+286,Hash Browns,Root Vegetables,starchy vegetables
+307,Daikon Radish,Asian Vegetables,non starchy vegetables
+288,Bamboo Shoots,Asian Vegetables,non starchy vegetables
+289,Turnips,Root Vegetables,non starchy vegetables
+312,Turnip Greens,Leafy Greens,non starchy vegetables
+185,Melba Toast,Crackers and Snacks,grains
+293,Ciabatta,Bread,grains
+19,Waffle,Breakfast Grains,grains
+196,Buckwheat,Gluten Free Grains,grains
+294,Tabbouleh,Gluten Containing Grains,grains
+295,Wheat Germ,Gluten Containing Grains,grains
+296,Corn on Cob,Everyday Starchy Vegetables,starchy vegetables
+297,Parsnips,Root Vegetables,starchy vegetables
+298,Cooked Potatoes,Root Vegetables,starchy vegetables
+54,Sandwich-style Crackers with Filling,Crackers and Snacks,grains
+287,Dried Apple,Dry Fruits,fruits
+101,Pears,Everyday Fruits,fruits
+300,Canned Plums,Everyday Fruits,fruits
+244,Whole Greek Yogurt with Fruit,Milk,proteins#dairy
+313,Jicama,Root Vegetables,non starchy vegetables
+314,Kohlrabi,Asian Vegetables,non starchy vegetables
+315,Leeks,Root Vegetables,non starchy vegetables
+273,Half and Half,Dairy,fat / oils
+274,Sweetened Coconut Milk,Dairy Alternatives,fat / oils
+299,Winter Squash,Root Vegetables,starchy vegetables
+291,Sardines,Fish,proteins
+290,Venison,Red Meat,proteins
+285,Egg,Eggs,proteins
+316,Radishes,Root Vegetables,non starchy vegetables
+317,Rutabaga,Root Vegetables,non starchy vegetables
+318,Escarole,Leafy Greens,non starchy vegetables
+319,Swiss Chard,Leafy Greens,non starchy vegetables
+320,Tomatoes,Everyday Vegetables,non starchy vegetables
+321,Water Chestnut,Root Vegetables,non starchy vegetables
+292,Haddock,Fish,proteins
+327,trout,Fish,proteins
+328,Buffalo,Red Meat,proteins
+329,Ostrich,Red Meat,proteins
+330,Rabbit,Red Meat,proteins
+331,Goat,Red Meat,proteins
+332,Lamb Chop,Red Meat,proteins
+333,Canadian Bacon,Red Meat,proteins
+334,Chicken,Poultry,proteins
+267,Sour Cream,Dairy,fat / oils
+335,Cornish Hen,Poultry,proteins
+336,Duck,Poultry,proteins
+337,Ground Turkey,Poultry,proteins
+137,Pea Pods,Everyday Vegetables,non starchy vegetables
+338,Summer Squash,Root Vegetables,non starchy vegetables
+325,Halibut,Fish,proteins
+322,Salmon,Fish,proteins
+326,Tilapia,Fish,proteins
+152,Salsa,Everyday Vegetables,non starchy vegetables
+323,Catfish,Fish,proteins
+324,Flounder,Fish,proteins
+161,Ham,Red Meat,proteins
+219,Lean Cheese (cheddar/colby),Milk,proteins
+62,Baked Beans,"Beans, Peas, and Lentils",starchy vegetables#proteins
+174,"Beans (Black, Garbanzo, Kidney, Lima, Navy, Pinto, White)","Beans, Peas, and Lentils",proteins#starchy vegetables
